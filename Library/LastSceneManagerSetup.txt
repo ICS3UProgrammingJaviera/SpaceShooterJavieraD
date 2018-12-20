@@ -1,0 +1,4 @@
+sceneSetups:
+- path: N:/StuShare/Semester 1 - Fall 2018/ICS3U Programming/Diaz, Javiera (s455309)/Unity/SpaceShooterJavieraD/Assets/_Complete-Game/_Complete-Game.unity
+  isLoaded: 1
+  isActive: 1
